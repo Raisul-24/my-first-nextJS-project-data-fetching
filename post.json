@@ -4,37 +4,37 @@
         "id": 1,
         "title": "Exploring the Wonders of Nature",
         "description": "Discover the beauty of nature through breathtaking landscapes and vibrant ecosystems. Immerse yourself in the serenity of forests, the majesty of mountains, and the tranquility of flowing rivers.",
-        "likeCount": 120
+        "likeCount": 1209
       },
       {
         "id": 2,
         "title": "The Art of Culinary Delights",
         "description": "Embark on a culinary journey filled with exquisite flavors and culinary masterpieces. From savory dishes to delectable desserts, savor the richness of diverse cuisines around the world.",
-        "likeCount": 98
+        "likeCount": 980
       },
       {
         "id": 3,
         "title": "Mastering the Code: A Developer's Tale",
         "description": "Dive into the world of coding as we explore the challenges and triumphs of mastering programming languages. Uncover the secrets of efficient algorithms and elegant code architecture.",
-        "likeCount": 205
+        "likeCount": 2005
       },
       {
         "id": 4,
         "title": "Capturing Moments: The Art of Photography",
         "description": "Witness the magic of photography as we freeze moments in time. From stunning landscapes to candid portraits, explore the visual storytelling that unfolds through the lens.",
-        "likeCount": 150
+        "likeCount": 1050
       },
       {
         "id": 5,
         "title": "Mindfulness in the Modern World",
         "description": "Navigate the complexities of modern life with mindfulness practices. Discover techniques for staying present, reducing stress, and cultivating a sense of calm in the midst of chaos.",
-        "likeCount": 87
+        "likeCount": 870
       },
       {
         "id": 6,
         "title": "The Evolution of Artificial Intelligence",
         "description": "Delve into the evolution of AI, from its humble beginnings to its transformative impact on various industries. Explore the ethical considerations and potential future advancements.",
-        "likeCount": 182
+        "likeCount": 1821
       }
     ]
     
