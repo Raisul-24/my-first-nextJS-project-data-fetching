@@ -2,7 +2,7 @@ import Link from "next/link";
 
 
 const PostsPage = async () => {
-   const res = await fetch('http://localhost:5000/post',{
+   const res = await fetch('http://localhost:5000/posts',{
       cache: "no-store", //both dynamic rendering client and server side
       // next: {
       //    revalidate: 5, // if data changes then after 5s it'll automatic rebuild
